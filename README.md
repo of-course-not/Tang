@@ -81,10 +81,14 @@ BeaconOps 是一套完整的小型 IoT 系统，由自研硬件、固件、后�
 <img src="images/pcb-real.jpg" alt="实物板" width="100%" /><br/>
 <sub>实物板 · ESP32-C3 + W25Q128</sub>
 </td>
+</tr>
+<tr>
 <td align="center" width="33%">
 <img src="images/pcb-layout.png" alt="PCB 走线" width="100%" /><br/>
 <sub>走线图 · 两层板</sub>
 </td>
+</tr>
+<tr>
 <td align="center" width="33%">
 <img src="images/pcb-render.png" alt="PCB 3D 渲染" width="100%" /><br/>
 <sub>背面 3D 渲染 · USB-C / 电池 / 喇叭</sub>
