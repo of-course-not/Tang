@@ -64,10 +64,14 @@ BeaconOps 是一套完整的小型 IoT 系统，由自研硬件、固件、后�
 <img src="images/console-welcome.png" alt="控制台首页" width="100%" /><br/>
 <sub>首页 · 发送 / 历史 / 设备 / 批次 / 设置</sub>
 </td>
+<tr>
+</tr>
 <td align="center" width="33%">
 <img src="images/console-message.png" alt="消息详情" width="100%" /><br/>
 <sub>消息详情 · 级别 / 状态 / 确认回执</sub>
 </td>
+<tr>
+</tr>
 <td align="center" width="33%">
 <img src="images/console-device.png" alt="设备详情" width="100%" /><br/>
 <sub>设备详情 · 行为时间轴 / 步数 / 活动强度</sub>
